@@ -74,15 +74,15 @@ The following guides describe how to setup the environment and deploy the micros
 
 At Pivotal we love education, not just educating ourselves, but also educating others. As such, these guides follow the *"teaching you how to fish"* principle - Rather than giving you line by line/command by command instructions, we provide guidelines and links to documentation where you can read and learn more.
 
-1. [Setting up the environment] [setup]
-2. [Creating a discovery service] [registry]
-3. [Creating a circuit breaker dashboard] [circuitbreaker]
-4. [creating the configuration service][configserver]
-5. [Pushing the Quote service] [pushquote]
-6. [Pushing all the services] [pushall]
-7. [Scaling the services] [scale]
+1. [Setting up the environment](setup)
+2. [Creating a discovery service](registry)
+3. [Creating a circuit breaker dashboard](circuitbreaker)
+4. [creating the configuration service](configserver)
+5. [Pushing the Quote service](pushquote)
+6. [Pushing all the services](pushall)
+7. [Scaling the services](scale)
 8. Auto Scaling - TODO: use autoscaler service!
-9. [Blue/Green deployments] [bluegreen]
+9. [Blue/Green deployments](bluegreen)
 10. Monitor workshop - TODO: show how to monitor microservices using springbootadmin, ELK tile and Zipkin.
 
 
