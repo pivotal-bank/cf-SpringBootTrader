@@ -9,3 +9,8 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+# eclipse artifacts
+.classpath
+.project
+.settings/
