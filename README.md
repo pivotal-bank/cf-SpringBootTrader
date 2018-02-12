@@ -98,26 +98,26 @@ At Pivotal we love education, not just educating ourselves, but also educating o
 # Demos
 
 ### 1. Deploying to **Pivotal Cloud Foundry**.
-TODO: document a walk through of this demo. This is a walkthough of the workshop above.
+TODO: document a walkthrough of this demo. This is a walkthrough of the workshop above.
 - Deploying microservices to Cloud Foundry.
 - Creating and binding services to applications.
 
 ### 2. Service discovery.
-TODO: document a walk through of this demo.
+TODO: document a walkthrough of this demo.
 
 ### 3. Scalability
-TODO: document a walk through of this demo.
+TODO: document a walkthrough of this demo.
 - provide a load generator to mimic users.
 - scale instances.
 
 ### 4. Configuration Management.
-TODO: document a walk through of this demo.
+TODO: document a walkthrough of this demo.
 
 ### 5. Traceability across all services.
-TODO: document a walk through of this demo using Zipkin and Kibana.
+TODO: document a walkthrough of this demo using Zipkin and Kibana.
 
 ### 6. Continuous Integration/Continuous Delivery.
-TODO: document a walk through of this demo.
+TODO: document a walkthrough of this demo.
 
 ### 7. Operations Demo
 TODO: document how to operate/monitor several microservices, using Spring Boot Admin and ELK tile
@@ -130,7 +130,7 @@ TODO: document how to operate/monitor several microservices, using Spring Boot A
 - **Correlation/Traceability:**
   Traceability of requests through all the microservices. This is done using [Spring-cloud-sleuth](http://cloud.spring.io/spring-cloud-sleuth/).
 - **Config Server:**
-  The microservices obtain the configuration from a [Configuration Service](http://cloud.spring.io/spring-cloud-config/) backed by a git repository. This means that configuration is now auditables and version controlled, as well as providing the ability to refresh configuration during runtime.
+  The microservices obtain the configuration from a [Configuration Service](http://cloud.spring.io/spring-cloud-config/) backed by a git repository. This means that configuration is now auditable and version controlled, as well as providing the ability to refresh configuration during runtime.
 
 # Roadmap
 
@@ -151,9 +151,9 @@ The roadmap for this project is constantly evolving. Please feel free to reach o
   Mobile interface to expose the services on an iOS device and/or Android device natively, making use of the [Pivotal Cloud Foundry Mobile Services](http://docs.pivotal.io/mobile/index.html).
 
 # Contributing
-Everyone is encouraged to help improved this project.
+Everyone is encouraged to help improve this project.
 
-The master branch has the latest stable release. development happens in the development branch (or feature branches that get merged into development branch). So please check if want you to develop is already in the development branch.
+The master branch has the latest stable release. development happens in the development branch (or feature branches that get merged into development branch). So please check if what you want to develop is already in the development branch.
 
 Here are some ways you can contribute:
 
