@@ -29,7 +29,7 @@ In order for our microservices to be able to connect to the Registry service, we
 
   Name this service **config-server** and specify the URI of your instance of the registry service. For example:
 
-  `cf cups config-service -p '{"tag":"config","uri":"<my-config-service-URI>"}'`
+  `cf cups config-server -p '{"tag":"config","uri":"<my-config-server-URI>"}'`
 
   The URI of your Config server is the URI where your config server is deployed. This was displayed at the end of `cf push` command when deploying the service.
 
